@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40e50bc7-ce72-4702-8140-9e93a99a74fb" name="Default Changelist" comment="" />
+    <list default="true" id="40e50bc7-ce72-4702-8140-9e93a99a74fb" name="Default Changelist" comment="api, axios.get('#').then((rsprnseve)=&gt; {})....&#10;&#10;watch{&#10;&#10;}">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueRevue.html" beforeDir="false" afterPath="$PROJECT_DIR$/vueRevue.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,11 +48,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612798663383</updated>
-      <workItem from="1612798665123" duration="16441000" />
+      <workItem from="1612798665123" duration="23834000" />
     </task>
+    <task id="LOCAL-00001" summary="api, axios.get('#').then((rsprnseve)=&gt; {})....&#10;&#10;watch{&#10;&#10;}">
+      <created>1612875821666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612875821666</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="api, axios.get('#').then((rsprnseve)=&gt; {})....&#10;&#10;watch{&#10;&#10;}" />
+    <option name="LAST_COMMIT_MESSAGE" value="api, axios.get('#').then((rsprnseve)=&gt; {})....&#10;&#10;watch{&#10;&#10;}" />
   </component>
 </project>
